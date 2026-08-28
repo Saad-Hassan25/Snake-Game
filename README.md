@@ -1,3 +1,17 @@
+<!-- Project cover -->
+<p align="center">
+  <img src="./project-cover.svg" alt="Snake Game cover" width="100%" />
+</p>
+
+> **8088 Assembly** — A classic snake game written for the 8088/x86 assembly environment.
+
+## Project snapshot
+
+- Random fruit placement, growing gameplay, and collision-based game-over rules.
+- Includes a root-level <a href="./project-cover.svg">project-cover.svg</a>, a scalable project cover graphic for this repository.
+
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <body>
